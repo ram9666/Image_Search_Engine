@@ -1,2 +1,3 @@
 # Image_Search_Engine
- this algorithm takes one image as input and outputs similar kind of images from dataset 
+A python program that outputs the images that are
+most similar to the queried image on a given dataset of images.
